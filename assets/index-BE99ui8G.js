@@ -9179,25 +9179,25 @@ const Bd = ({ isOpen: j, closeModal: k }) => (
     }, [j, k]),
     null
   ),
-  Qd = "/vite-react/assets/baseball-open-B1ARgnB7.png",
-  Vd = "/vite-react/assets/jrep-open-U2w48dkK.png",
-  Wd = "/vite-react/assets/kikkake-open-BqMuID9i.png",
-  Ad = "/vite-react/assets/kikkakeShop-open-B00Ku5tE.png",
-  $d = "/vite-react/assets/Next-open--FihjH7x.png",
-  Kd = "/vite-react/assets/ZeroIchi-open-B4-Ju-SL.png",
-  Zd = "/vite-react/assets/libaty-open-CT07Zh2j.png",
-  Yd = "/vite-react/assets/eyecarelabo-open-Dhdv-bM2.png",
-  Gd = "/vite-react/assets/vie-huit-open-DWQ-zBP7.png",
-  Xd = "/vite-react/assets/zeroOne-open-B0Zlu5VJ.png",
-  Jd = "/vite-react/assets/it-plus-open-u3C57RQs.png",
-  qd = "/vite-react/assets/orange-group-open-BP6kdd8c.png",
-  bd = "/vite-react/assets/comingSoon-open-ydrWcG4n.png",
-  ef = "/vite-react/assets/lessonOne-open-DZkr6ZXp.png",
-  nf = "/vite-react/assets/lessonTwo-open-BVddw04l.png",
-  tf = "/vite-react/assets/lessonThree-open-ZDz1a7JT.png",
-  rf = "/vite-react/assets/lessonFour-open-C_SxQHbd.png",
-  lf = "/vite-react/assets/lessonFive-open-Bun9LUzp.png",
-  sf = "/vite-react/assets/libatyLp-open-Dgy8OERH.png",
+  Qd = "assets/baseball-open-B1ARgnB7.png",
+  Vd = "assets/jrep-open-U2w48dkK.png",
+  Wd = "assets/kikkake-open-BqMuID9i.png",
+  Ad = "assets/kikkakeShop-open-B00Ku5tE.png",
+  $d = "assets/Next-open--FihjH7x.png",
+  Kd = "assets/ZeroIchi-open-B4-Ju-SL.png",
+  Zd = "assets/libaty-open-CT07Zh2j.png",
+  Yd = "assets/eyecarelabo-open-Dhdv-bM2.png",
+  Gd = "assets/vie-huit-open-DWQ-zBP7.png",
+  Xd = "assets/zeroOne-open-B0Zlu5VJ.png",
+  Jd = "assets/it-plus-open-u3C57RQs.png",
+  qd = "assets/orange-group-open-BP6kdd8c.png",
+  bd = "assets/comingSoon-open-ydrWcG4n.png",
+  ef = "assets/lessonOne-open-DZkr6ZXp.png",
+  nf = "assets/lessonTwo-open-BVddw04l.png",
+  tf = "assets/lessonThree-open-ZDz1a7JT.png",
+  rf = "assets/lessonFour-open-C_SxQHbd.png",
+  lf = "assets/lessonFive-open-Bun9LUzp.png",
+  sf = "assets/libatyLp-open-Dgy8OERH.png",
   uf = [
     { id: 1, open: Qd },
     { id: 2, open: Vd },
@@ -9268,7 +9268,7 @@ const Bd = ({ isOpen: j, closeModal: k }) => (
       ],
     });
   },
-  af = "/vite-react/assets/baseball-close-D-yqhlxE.png",
+  af = "assets/baseball-close-D-yqhlxE.png",
   fe = [
     { title: "少年野球連盟HP" },
     { title: "株式会社J-REP HP" },
@@ -9379,7 +9379,7 @@ const Bd = ({ isOpen: j, closeModal: k }) => (
       ],
     });
   },
-  df = "/vite-react/assets/jrep-close-pRmQ9_ne.png",
+  df = "assets/jrep-close-pRmQ9_ne.png",
   ff = () => {
     const j = { fontSize: "11px", lineHeight: "14px" },
       k = fe[1],
@@ -9451,7 +9451,7 @@ const Bd = ({ isOpen: j, closeModal: k }) => (
       ],
     });
   },
-  pf = "/vite-react/assets/kikkake-close-CEBW0LuZ.png",
+  pf = "assets/kikkake-close-CEBW0LuZ.png",
   hf = () => {
     const j = { fontSize: "11px", lineHeight: "14px" },
       k = fe[2],
@@ -9529,7 +9529,7 @@ const Bd = ({ isOpen: j, closeModal: k }) => (
       ],
     });
   },
-  mf = "/vite-react/assets/kikkakeShop-close-BtPxJ_xI.png",
+  mf = "assets/kikkakeShop-close-BtPxJ_xI.png",
   vf = () => {
     const j = { fontSize: "11px", lineHeight: "14px" },
       k = fe[3],
@@ -9603,7 +9603,7 @@ const Bd = ({ isOpen: j, closeModal: k }) => (
       ],
     });
   },
-  yf = "/vite-react/assets/next-close-CSvf_FJR.png",
+  yf = "assets/next-close-CSvf_FJR.png",
   gf = () => {
     const j = { fontSize: "11px", lineHeight: "14px" },
       k = fe[4],
@@ -9673,7 +9673,7 @@ const Bd = ({ isOpen: j, closeModal: k }) => (
       ],
     });
   },
-  xf = "/vite-react/assets/webZeroichi-close-BVY11mWF.png",
+  xf = "assets/webZeroichi-close-BVY11mWF.png",
   jf = () => {
     const j = { fontSize: "11px", lineHeight: "14px" },
       k = fe[5],
@@ -9744,7 +9744,7 @@ const Bd = ({ isOpen: j, closeModal: k }) => (
       ],
     });
   },
-  wf = "/vite-react/assets/libertyBridge-close-i0F2-3pl.png",
+  wf = "assets/libertyBridge-close-i0F2-3pl.png",
   kf = () => {
     const j = { fontSize: "11px", lineHeight: "14px" },
       k = fe[6],
@@ -9819,7 +9819,7 @@ const Bd = ({ isOpen: j, closeModal: k }) => (
       ],
     });
   },
-  Sf = "/vite-react/assets/eyecarelabo-close-CGGea83U.png",
+  Sf = "assets/eyecarelabo-close-CGGea83U.png",
   Nf = () => {
     const j = { fontSize: "11px", lineHeight: "14px" },
       k = fe[7],
@@ -9891,7 +9891,7 @@ const Bd = ({ isOpen: j, closeModal: k }) => (
       ],
     });
   },
-  Ef = "/vite-react/assets/vieHuit-close-CpYMaNmR.png",
+  Ef = "assets/vieHuit-close-CpYMaNmR.png",
   Cf = () => {
     const j = { fontSize: "11px", lineHeight: "14px" },
       k = fe[8],
@@ -9973,7 +9973,7 @@ const Bd = ({ isOpen: j, closeModal: k }) => (
       ],
     });
   },
-  _f = "/vite-react/assets/ZeroOne-close-DNLjBP83.png",
+  _f = "assets/ZeroOne-close-DNLjBP83.png",
   Pf = () => {
     const j = { fontSize: "11px", lineHeight: "14px" },
       k = fe[9],
@@ -10057,7 +10057,7 @@ const Bd = ({ isOpen: j, closeModal: k }) => (
       ],
     });
   },
-  Tf = "/vite-react/assets/comingSoon-open-ydrWcG4n.png",
+  Tf = "assets/comingSoon-open-ydrWcG4n.png",
   Lf = () => {
     const j = { fontSize: "11px", lineHeight: "14px" },
       k = fe[10],
@@ -10117,7 +10117,7 @@ const Bd = ({ isOpen: j, closeModal: k }) => (
       ],
     });
   },
-  zf = "/vite-react/assets/it-plus-close-C-eZlnRJ.png",
+  zf = "assets/it-plus-close-C-eZlnRJ.png",
   Rf = () => {
     const j = { fontSize: "11px", lineHeight: "14px" },
       k = fe[11],
@@ -10206,7 +10206,7 @@ const Bd = ({ isOpen: j, closeModal: k }) => (
       ],
     });
   },
-  Of = "/vite-react/assets/orange-group-CTbAUBWX.png",
+  Of = "assets/orange-group-CTbAUBWX.png",
   Mf = () => {
     const j = { fontSize: "11px", lineHeight: "14px" },
       k = fe[12],
@@ -10274,7 +10274,7 @@ const Bd = ({ isOpen: j, closeModal: k }) => (
       ],
     });
   },
-  If = "/vite-react/assets/lessonOne-close-CrBiiPT9.png",
+  If = "assets/lessonOne-close-CrBiiPT9.png",
   Ff = () => {
     const j = { fontSize: "11px", lineHeight: "14px" },
       k = fe[13];
@@ -10353,7 +10353,7 @@ const Bd = ({ isOpen: j, closeModal: k }) => (
       ],
     });
   },
-  Df = "/vite-react/assets/lessonTwo-close-DrP4nUb1.png",
+  Df = "assets/lessonTwo-close-DrP4nUb1.png",
   Hf = () => {
     const j = { fontSize: "11px", lineHeight: "14px" },
       k = fe[14];
@@ -10432,7 +10432,7 @@ const Bd = ({ isOpen: j, closeModal: k }) => (
       ],
     });
   },
-  Uf = "/vite-react/assets/lessonThree-close-YQJVYj2y.png",
+  Uf = "assets/lessonThree-close-YQJVYj2y.png",
   Bf = () => {
     const j = { fontSize: "11px", lineHeight: "14px" },
       k = fe[15];
@@ -10511,7 +10511,7 @@ const Bd = ({ isOpen: j, closeModal: k }) => (
       ],
     });
   },
-  Qf = "/vite-react/assets/lessonFour-close-BHVnvfiG.png",
+  Qf = "assets/lessonFour-close-BHVnvfiG.png",
   Vf = () => {
     const j = { fontSize: "11px", lineHeight: "14px" },
       k = fe[16];
@@ -10591,7 +10591,7 @@ const Bd = ({ isOpen: j, closeModal: k }) => (
       ],
     });
   },
-  Wf = "/vite-react/assets/lessonFive-close-CQf_AGLY.png",
+  Wf = "assets/lessonFive-close-CQf_AGLY.png",
   Af = () => {
     const j = { fontSize: "11px", lineHeight: "14px" },
       k = fe[17];
@@ -10671,7 +10671,7 @@ const Bd = ({ isOpen: j, closeModal: k }) => (
       ],
     });
   },
-  $f = "/vite-react/assets/libatyLp-close-DipLbW3R.png",
+  $f = "assets/libatyLp-close-DipLbW3R.png",
   Kf = () => {
     const j = { fontSize: "11px", lineHeight: "14px" },
       k = fe[18],
